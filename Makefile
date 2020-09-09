@@ -19,3 +19,6 @@ prep: ;
 
 buildimage: Dockerfile
 	$(DOCKER_BUILD_CMD) -t $(TAG) -f $< .
+
+cleanimage:
+	sudo docker rmi $(TAG)
