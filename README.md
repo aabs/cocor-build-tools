@@ -1,6 +1,6 @@
 # Coco/R Build Tools for C#
 
-> A docker image for building with the Coco/R compiler generator
+> A docker image for building C# parsers and scanners with the [Coco/R](http://www.ssw.uni-linz.ac.at/Coco/) compiler generator.
 
 ## Install
 
