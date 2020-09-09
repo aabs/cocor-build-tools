@@ -14,7 +14,7 @@ docker run  --rm --volume "$(CURDIR):/blah" -it aabs/cocor-build-tools:0.1.0 /bl
 
 ## Contributing
 
-PRs accepted.
+PRs accepted at [aabs/cocor-build-tools](https://github.com/aabs/cocor-build-tools)
 
 ## License
 
